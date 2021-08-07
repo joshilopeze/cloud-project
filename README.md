@@ -25,6 +25,6 @@ Cabe recalcar que al probar esta aplicación en el navegador la precisión no pa
 * Se realizó mediante el dashboard de minikube "minikube dashboard"
 * Se realizó un push de la imagen para que esta pueda cargarse a Docker Hub y mediante ella poder hacer el Deploy en kubernetes
 * 
-
+(https://prnt.sc/1kj6z0v)
 
 [Video de demostración del proyecto](https://drive.google.com/file/d/1W3uSVSYaijPNW5v6Jjbv3HD0RMjiZpvT/view?usp=sharing)
