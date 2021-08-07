@@ -15,7 +15,10 @@ Aca muestro unas cuantas imagenes de la dataset usada
 * El optimizador es adam
 * La precisión es del 88.56%
 ![Alt Text](images/accuracy.png)
+
+A continuación se hace la prueba del algoritmo con las imagenes del dataset (datos prueba)
 ![Alt Text](images/test_datos.png)
+
 Cabe recalcar que al probar esta aplicación en el navegador la precisión no parecerá tan alta ya que muchas veces esta predecirá mal. Esto se debe a que el algoritmo de autoaprendizaje analiza pixel por pixel el dibujo que realizaremos en esa caja de 28x28, por lo tanto, si quisieramos dibujar un bolso deberiamos tratar de pintar la mayor cantidad posbible de espacios para que los pixels no queden en blanco.
 ### Docker
 
